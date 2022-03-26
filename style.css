@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+#apps{
+    text-align: center;
+    background-color:lavender ;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color:floralwhite;
+    margin: 8px auto;
+}
+#games{
+    background-color:forestgreen;
+}
+#myCarousel{
+    background-color: darkseagreen;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: midnightblue;
+    font-size: 20px;
+}
